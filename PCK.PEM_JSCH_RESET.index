@@ -4,7 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://automic-repo.s3.amazonaws.com/PCK.PEM_JSCH_RESET_1.0.zip",
+    "url" : "https://automic-repo.s3.amazonaws.com/PCK.PEM_JSCH_RESET_1.0_XML_LEGACY_v2.zip",
     "devel" : { },
     "head" : { },
     "version" : "1.0",
