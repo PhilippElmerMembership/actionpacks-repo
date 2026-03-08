@@ -1,0 +1,22 @@
+{
+  "name" : "PCK.PEM_JSCH_RESET",
+  "description" : "Basic building blocks for package development and bootstrapping new actions",
+  "repository" : {
+    "type" : "archive",
+    "branch" : "master",
+    "url" : "https://automic-repo.s3.amazonaws.com/PCK.PEM_JSCH_RESET_1.0.0.zip",
+    "devel" : { },
+    "head" : { },
+    "version" : "1.0",
+    "sha1" : "7993b35f514ac2da409f36ac3b3110841b462dc2",
+    "dependencies" : {
+      "PCK.ITPA_SHARED" : "~>1.1"
+    }
+  },
+  "company" : "Philipp Elmer GmbH",
+  "homepage" : "www.pemautomic.com",
+  "license" : "",
+  "categories" : "Utility",
+  "packageFormatVersion" : "0.2.0",
+  "title" : "PEM_JSCH_RESET"
+}
